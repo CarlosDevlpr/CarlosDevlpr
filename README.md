@@ -18,17 +18,18 @@
   <img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />
   <img align="left" alt="Visual Studio Code" width="28px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />
   <img align="left" alt="Docker" width="45px" src="https://www.svgrepo.com/show/373553/docker.svg" />
-  <img align="left" alt="Codepen" width="35px" src="https://www.svgrepo.com/show/349722/codepen.svg" />
 </div>
 
 <br>
 <br>
 
 ### Vamos jogar juntos:
-<img href="https://cssbattle.dev/player/CtOl69x4esURWWaldg2u0WxFcMj1" align="left" alt="cssbattle" width="100px" src="https://cssbattle.dev/images/logo.svg" /> 
+<a href="https://cssbattle.dev/player/CtOl69x4esURWWaldg2u0WxFcMj1"><img align="left" alt="cssbattle" width="100px" src="https://cssbattle.dev/images/logo.svg"/></a> 
 
-### Confira o que faço no FrontEnd
-<img align="left" src="https://codepen.io/carlosdiamantino" alt="Codepen" width="35px" src="https://www.svgrepo.com/show/349722/codepen.svg" />
+  <br>
+  
+### Confira o que faço no FrontEnd:
+<a href="https://codepen.io/carlosdiamantino"><img alt="Codepen" width="35px" src="https://www.svgrepo.com/show/349722/codepen.svg" style="cursor: pointer;"/></a>
   
 <br>
 <br>
