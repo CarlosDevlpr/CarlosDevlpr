@@ -13,6 +13,7 @@
   <img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />
   <img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/29753/javascript.svg" />
   <img align="left" alt="Python" width="35px" src="https://www.svgrepo.com/show/354238/python.svg"/>
+  <img align="left" alt="Python" width="35px" src="https://www.svgrepo.com/show/353631/dart.svg"/>
   <img align="left" alt="Sass" width="35px" src="https://www.svgrepo.com/show/354310/sass.svg" />
   <img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/373623/git.svg" />
   <img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />
