@@ -8,6 +8,13 @@
   
 ### Essas são as linguagens e ferramentas que eu sei usar!
 
+´´´
+const name = 'Carlos Diamantino';
+let working_on = 'My own Software as a Service company';
+let skills = ['HTML', 'CSS', 'JavaScript', 'Node.js', 'GraphQL', 'Postgres'];
+let learning = ['Svelte', 'Flask'];
+´´´
+
 <div style="display: inline_block"><br>
   <img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />
   <img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />
