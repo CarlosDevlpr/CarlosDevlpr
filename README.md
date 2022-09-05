@@ -1,5 +1,3 @@
-### Olá! Sou o Carlos Diamantino 👋😎
-
 ```
   const name = 'Carlos Diamantino';
   let working_on = 'My own Software as a Service company';
