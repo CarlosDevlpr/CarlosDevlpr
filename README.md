@@ -1,12 +1,11 @@
 ### Olá! Sou o Carlos Diamantino 👋😎
 
-'''
+```
   const name = 'Carlos Diamantino';
   let working_on = 'My own Software as a Service company';
   let skills = ['HTML', 'CSS', 'JavaScript', 'Node.js', 'GraphQL', 'Postgres'];
   let learning = ['Svelte', 'Flask'];
-'''
-
+```
 
 <div align="center">
   <a href="https://github.com/carlosdevlpr">
