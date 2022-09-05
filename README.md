@@ -1,5 +1,13 @@
 ### Olá! Sou o Carlos Diamantino 👋😎
 
+'''
+  const name = 'Carlos Diamantino';
+  let working_on = 'My own Software as a Service company';
+  let skills = ['HTML', 'CSS', 'JavaScript', 'Node.js', 'GraphQL', 'Postgres'];
+  let learning = ['Svelte', 'Flask'];
+'''
+
+
 <div align="center">
   <a href="https://github.com/carlosdevlpr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdevlpr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,12 +16,6 @@
   
 ### Essas são as linguagens e ferramentas que eu sei usar!
 
-´´´
-const name = 'Carlos Diamantino';
-let working_on = 'My own Software as a Service company';
-let skills = ['HTML', 'CSS', 'JavaScript', 'Node.js', 'GraphQL', 'Postgres'];
-let learning = ['Svelte', 'Flask'];
-´´´
 
 <div style="display: inline_block"><br>
   <img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />
