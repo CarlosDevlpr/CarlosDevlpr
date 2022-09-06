@@ -1,8 +1,8 @@
 ```
   const name = 'Carlos Diamantino';
   let working_on = 'My own Software as a Service company';
-  let skills = ['HTML', 'CSS', 'Python', 'JavaScript', 'Node.js', 'GraphQL', 'Postgres'];
-  let learning = ['Svelte', 'Flask'];
+  let skills = ['HTML', 'CSS', 'Python', 'JavaScript',  'GraphQL', 'Postgres'];
+  let learning = ['Svelte', 'Node.js'];
 ```
 
 <div align="center">
