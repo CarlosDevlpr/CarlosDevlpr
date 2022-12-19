@@ -1,6 +1,6 @@
 ```
   const name = 'Carlos Diamantino';
-  let working_on = 'My own Software as a Service company';
+  let workingOn = 'My own Software as a Service company';
   let skills = ['HTML', 'CSS', 'Python', 'JavaScript',  'GraphQL', 'Postgres'];
   let learning = ['Svelte', 'Node.js'];
 ```
