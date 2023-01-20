@@ -4,12 +4,6 @@
   let skills = ['HTML', 'CSS', 'Python', 'JavaScript',  'GraphQL', 'Postgres'];
   let learning = ['Svelte', 'Node.js'];
 ```
-
-<div align="center">
-  <a href="https://github.com/carlosdevlpr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdevlpr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdevlpr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 ### Essas são as linguagens e ferramentas que eu sei usar!
 
