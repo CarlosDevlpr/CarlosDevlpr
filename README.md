@@ -1,8 +1,8 @@
 ```
   const name = 'Carlos Diamantino';
   let workingOn = 'My own Software as a Service company';
-  let skills = ['HTML', 'CSS', 'Python', 'JavaScript',  'GraphQL', 'Postgres'];
-  let learning = ['Svelte', 'Node.js'];
+  let skills = ['HTML', 'CSS', 'Python', 'JavaScript', 'Postgres', 'Svelte', 'Node.js'];
+  let learning = ['Typescript', 'TypeOrm'];
 ```
   
 ### Essas são as linguagens e ferramentas que eu sei usar!
@@ -13,11 +13,8 @@
   <img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />
   <img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/29753/javascript.svg" />
   <img align="left" alt="Python" width="35px" src="https://www.svgrepo.com/show/354238/python.svg"/>
-  <img align="left" alt="Python" width="35px" src="https://www.svgrepo.com/show/353631/dart.svg"/>
-  <img align="left" alt="Sass" width="35px" src="https://www.svgrepo.com/show/354310/sass.svg" />
+  <img align="left" alt="Svelte" width="45px" src="https://www.svgrepo.com/show/354416/svelte-icon.svg" />
   <img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/373623/git.svg" />
-  <img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />
-  <img align="left" alt="Visual Studio Code" width="28px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />
   <img align="left" alt="Docker" width="45px" src="https://www.svgrepo.com/show/373553/docker.svg" />
 </div>
 
