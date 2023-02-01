@@ -2,7 +2,7 @@
   const name = 'Carlos Diamantino';
   let workingOn = 'My own Software as a Service company';
   let skills = ['HTML', 'CSS', 'Python', 'JavaScript', 'Postgres', 'Svelte', 'Node.js'];
-  let learning = ['Typescript', 'TypeOrm'];
+  let learning = ['Typescript', 'TypeOrm', 'rust'];
 ```
   
 ### Essas são as linguagens e ferramentas que eu sei usar!
