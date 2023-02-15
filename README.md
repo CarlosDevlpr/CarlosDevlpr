@@ -13,9 +13,11 @@
   <img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />
   <img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/29753/javascript.svg" />
   <img align="left" alt="Python" width="35px" src="https://www.svgrepo.com/show/354238/python.svg"/>
+  <img align="left" alt="TypeScript" width="45px" src="https://www.svgrepo.com/show/374146/typescript-official.svg"/>
   <img align="left" alt="Svelte" width="45px" src="https://www.svgrepo.com/show/354416/svelte-icon.svg" />
   <img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/373623/git.svg" />
   <img align="left" alt="Docker" width="45px" src="https://www.svgrepo.com/show/373553/docker.svg" />
+  
 </div>
 
 <br>
