@@ -30,7 +30,7 @@
 <br><br>
 
 <div> 
-  <h4 href="https://api.whatsapp.com/send/?phone=5511996514206&text=ol%C3%A1+Vim pelo github!">💬 Se quiser me perguntar algo: </h4>
+  <h4>💬 Se quiser me perguntar algo: </h4>
   <br>
   <a href="https://instagram.com/carlosdiamantiino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:carlosdiamantino13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
