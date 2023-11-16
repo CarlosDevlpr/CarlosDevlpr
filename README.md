@@ -17,12 +17,12 @@
   <img align="left" alt="Docker" width="45px" src="https://www.svgrepo.com/show/373553/docker.svg" />
 </div>
 
-<br>
+<br><br>
 
 ### Vamos jogar juntos:
 <a href="https://cssbattle.dev/player/CtOl69x4esURWWaldg2u0WxFcMj1"><img align="left" alt="cssbattle" width="100px" src="https://cssbattle.dev/images/logo.svg"/></a> 
 
-<br>
+<br><br>
   
 ### Confira o que faço no FrontEnd:
 <a href="https://codepen.io/carlosdiamantino"><img alt="Codepen" width="35px" src="https://www.svgrepo.com/show/349722/codepen.svg" style="cursor: pointer;"/></a>
