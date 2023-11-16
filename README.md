@@ -6,7 +6,7 @@
 ```
   
 ### Essas são as linguagens e ferramentas que eu sei usar!
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />
   <img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />
   <img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/29753/javascript.svg" />
