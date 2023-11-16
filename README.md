@@ -26,8 +26,6 @@
   
 ### Confira o que faço no FrontEnd:
 <a href="https://codepen.io/carlosdiamantino"><img alt="Codepen" width="35px" src="https://www.svgrepo.com/show/349722/codepen.svg" style="cursor: pointer;"/></a>
-  
-<br><br>
 
 <div> 
   <h4>💬 Se quiser me perguntar algo: </h4>
