@@ -31,8 +31,7 @@
 
 <div> 
   <h4>💬 Se quiser me perguntar algo: </h4>
-  <a href="https://instagram.com/carlosdiamantiino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:carlosdiamantino13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5511996514206&text=Ol%C3%A1!%20Vim%20pelo%20seu%20github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:carlosdevlpr@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+target="_blank"></a> 
 </div>
   
