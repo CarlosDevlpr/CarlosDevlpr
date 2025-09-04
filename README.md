@@ -32,6 +32,5 @@
 <div> 
   <h4>💬 Se quiser me perguntar algo: </h4>
   <a href = "mailto:carlosdevlpr@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-target="_blank"></a> 
 </div>
   
